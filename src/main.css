@@ -29,3 +29,7 @@ nav a{
 .top-buffer{
     margin-top: 20px;
 }
+
+#kupon{
+    background-color: orange;
+}
