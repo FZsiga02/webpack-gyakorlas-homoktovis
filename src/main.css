@@ -1,0 +1,31 @@
+body{
+    background-image: url('/images/hatter.png');
+}
+
+#cim{
+    text-align: center;
+    background-color: orange;
+    height: 150px;
+    padding: 50px;
+}
+
+#focim{
+    font-size: 50px;
+}
+
+#nav{
+    text-align: center;
+    font-style: italic;
+    font-size: 17px;
+    background-color: white;
+    height: 50px;
+    padding: 12.5px;
+}
+
+nav a{
+    color: orange;
+}
+
+.top-buffer{
+    margin-top: 20px;
+}
