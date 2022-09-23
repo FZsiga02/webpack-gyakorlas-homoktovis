@@ -1,15 +1,14 @@
 body{
-    background-image: url('/images/hatter.png');
+    background-image: url('/webpack-gyakorlas-homoktovis/images/hatter.png');
 }
 
 #cim{
     text-align: center;
     background-color: orange;
     height: 150px;
-    padding: 50px;
 }
 
-#focim{
+#homoktovis{
     font-size: 50px;
 }
 
@@ -31,5 +30,28 @@ nav a{
 }
 
 #kupon{
-    background-color: orange;
+  background-color: orange;
+}
+
+#kartya{
+  background-color: white;
+  text-align: center;
+}
+
+#bokor{
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
+
+.kep{
+  width: 100%;
+}
+
+.fejlec{
+  background-color: orange;
+}
+
+.block{
+  background-color: white;
 }
